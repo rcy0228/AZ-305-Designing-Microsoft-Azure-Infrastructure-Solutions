@@ -36,7 +36,7 @@ Complete Exercise 1
 
 4. Please click on **Exclusions** elipsis **(...)** towards the right side of the exclusions.
 
-5. On the Exclusions side screen Select the Resource group named similar to **ODL-AZ-305M02-838938** and then select **Add to selected scope** and then **Save**.
+5. On the Exclusions side screen Select the Resource group named similar to **ODL-AZ-305M02-<inject key="Deployment-id"></inject>** and then select **Add to selected scope** and then **Save**.
 
       ![image](../media/pol6a.png)
 
