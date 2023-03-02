@@ -59,7 +59,12 @@ Complete Exercise 1.
     | Region | **East US** |
   
   
-   For the **IP Addresses** tab keep the default settings.
+   For the **IP Addresses** tab provide the following settings and create the virtual network.
+    - Click on **Add an IP address space**
+    - Starting address: `10.1.0.0`
+    - Address space size: `/16`
+    
+    ![img](../media/M6-img.jpg)
   
    **Third Virtual Network:**
   
