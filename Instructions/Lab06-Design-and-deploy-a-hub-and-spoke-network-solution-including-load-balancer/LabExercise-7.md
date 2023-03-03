@@ -74,7 +74,7 @@ Complete Exercise 1 & Exercise 2 & Exercise 3 & Exercise 4 & Exercise 5 & Exerci
 
 15. Select **contoso-Vnet-EastUS** in Virtual network.
 
-16. Select **IP Address** for Backend Pool Configuration.
+16. Select **NIC** for Backend Pool Configuration.
 
 17. Select **Save**.
 
