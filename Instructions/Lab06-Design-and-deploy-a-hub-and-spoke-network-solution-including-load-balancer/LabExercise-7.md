@@ -87,7 +87,7 @@ Complete Exercise 1 & Exercise 2 & Exercise 3 & Exercise 4 & Exercise 5 & Exerci
     | Section | Values |
     | ------- | ------ |
     | Name | **contosoHTTPRule** |
-    | Frontend IP address | Select **contosoIP** |
+    | Frontend IP address | Select **contosopublicIP** |
     | Backend pool | Select **contosoBackendPool** |
     | Protocol | Select TCP |
     | Port | Enter 80 |
