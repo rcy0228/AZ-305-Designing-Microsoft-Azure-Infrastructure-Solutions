@@ -27,7 +27,7 @@ Complete Exercise 1 & Exercise 2 & Exercise 3 & Exercise 4 & Exercise 5
 
 2. Go to **Contoso-Vnet-WestUS** virtual network and select **Peerings** under **Settings**. You'll see virtual network peerings created by Virtual Network Manager with ANM in the name.
 
-    ![img](../media/ver2.png)
+    ![img](../media/L6-Ex6.jpg)
 
 3. Go to **Contoso-Vnet-EastUS** virtual network, select **Network Manager** under **Settings** and click on the **Security admin configurations** tab to see the security admin rules applied to this virtual network.
 
